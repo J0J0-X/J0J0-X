@@ -1,14 +1,17 @@
 # 💫 About Me:
 About Me<br> 👋 Hi there! I’m a passionate UI Engineer and Product Designer with a knack for creating intuitive, beautiful, and highly functional digital experiences. I thrive at the intersection of user experience and technology, building seamless interfaces that don’t just look good but feel good to use.
 
-# 💼 What I Do
+## 💼 What I Do
 UI Engineering: Crafting responsive, performant, and accessible interfaces with a strong command over modern front-end technologies and frameworks. <br> Product Design: Designing with empathy and intent, from wireframes and prototypes to polished final products, always with a user-centered approach. <br><br> 
 
-# 🚀 Skills & Strengths 
+## 🚀 Skills & Strengths 
 Frontend: JavaScript, React, Typescript, Vue, CSS/SCSS, Tailwind CSS, Svelt, HTML <br> Full-stack: Next.JS, Node.js, Laravel <br> Design Tools: Figma, Framer <br> Collaboration: Adept at working cross-functionally with developers, PMs, and stakeholders to turn complex ideas into easy-to-use products. <br><br> 
 
-# 📚 Continuous Learning 
-I’m constantly exploring new tools, patterns, and technologies to stay on the cutting edge of UI development and design. <br><br> 🌐 Let’s Connect! <br> Whether it’s a potential collaboration or just a shared interest in UX/UI, feel free to reach out. Let’s make the web a more beautiful and usable place, one pixel at a time!
+## 📚 Continuous Learning 
+I’m constantly exploring new tools, patterns, and technologies to stay on the cutting edge of UI development and design. <br><be> 
+
+##🌐 Let’s Connect! 
+Whether it’s a potential collaboration or just a shared interest in UX/UI, feel free to reach out. Let’s make the web a more beautiful and usable place, one pixel at a time!
 
 
 ## 🌐 Socials:
